@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"asia","type":0,"url":"https://iptv-org.github.io/iptv/regions/asia.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
+{"name":"GW","type":0,"url":"https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2023.m3u8","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
