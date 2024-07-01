@@ -1,8 +1,7 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"jp","type":0,"url":"https://iptv-org.github.io/iptv/countries/jp.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
-{"name":"hk","type":0,"url":"https://iptv-org.github.io/iptv/countries/hk.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20}
+{"name":"asia","type":0,"url":"https://iptv-org.github.io/iptv/regions/asia.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
