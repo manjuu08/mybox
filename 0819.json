@@ -1,13 +1,17 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"japan","type":0,"url":"https://iptv-org.github.io/iptv/countries/jp.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20}
+{"name":"jp","type":0,"url":"https://iptv-org.github.io/iptv/countries/jp.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
+{"name":"hk","type":0,"url":"https://iptv-org.github.io/iptv/countries/hk.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20}
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
 {"key":"Dm84","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Ysj","name":"异界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"}
+{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"},
+{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Zx4k","name":"专线","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1}
 ],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"],
 "doh":[
