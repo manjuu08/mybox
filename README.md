@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json
 
 （1）https://github.com/gaotianliuyun/gao
 
-（2）https://github.com/iptv-org/iptv
+（2）https://github.com/qist/tvbox
