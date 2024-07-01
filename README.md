@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/manjuu08/mybox/main/anime.json
 （2）瑟瑟：
 https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json
 
-(3)港剧
+（3）港剧
 https://raw.githubusercontent.com/manjuu08/mybox/main/canto.json
 
 参考项目：
