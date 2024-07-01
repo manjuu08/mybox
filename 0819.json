@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"live","type":0,"url":"https://raw.githubusercontent.com/eklins/FDTV/4931de454a141bb7e387121a07b9f43e7611e30d/zz/IPTV20230322%20中港台国际直播.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20'
+{"name":"live","type":0,"url":"https://raw.githubusercontent.com/eklins/FDTV/4931de454a141bb7e387121a07b9f43e7611e30d/zz/IPTV20230322%20中港台国际直播.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20}
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
