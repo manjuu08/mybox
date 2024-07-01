@@ -8,14 +8,11 @@ https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile
 
 订阅地址:
 
-（1）动漫：
-https://raw.githubusercontent.com/manjuu08/mybox/main/anime.json
+（1）自用：
+https://raw.githubusercontent.com/manjuu08/mybox/main/0819.json
 
 （2）瑟瑟：
 https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json
-
-（3）港剧
-https://raw.githubusercontent.com/manjuu08/mybox/main/canto.json
 
 参考项目：
 
