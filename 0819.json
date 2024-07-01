@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"country","type":0,"url":"https://iptv-org.github.io/iptv/index.country.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20},
+{"name":"饭太硬•综合","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
