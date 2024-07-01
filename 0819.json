@@ -1,7 +1,10 @@
 {
 "spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt;md5;39536019b1427f62b535f028d161d43a",
 "lives":[
-{"name":"live","type":0,"url":"https://raw.githubusercontent.com/eklins/FDTV/4931de454a141bb7e387121a07b9f43e7611e30d/zz/IPTV20230322%20中港台国际直播.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20}
+{"name":"v4","type":0,"url":"https://raw.gitmirror.com/jdliu243910/zb/main/v4mu","playerType":1,"ua":"Mozilla/5.0","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","type":0,"url":"https://epg.pw/test_channels.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ipv6","type":0,"url":"https://raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
