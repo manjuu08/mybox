@@ -3,7 +3,7 @@
 "lives":[
 {"name":"初秋语","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"}
 ],
-"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
+"wallpaper":"https://liu.chuqiuyu.workers.dev",
 "sites":[
 {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
 {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
