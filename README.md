@@ -4,7 +4,7 @@ APP推荐:
 https://github.com/o0HalfLife0o/TVBoxOSC
 
 （2）手机版本：
-https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile
+https://github.com/Tosencen/XMBOX
 
 订阅地址:
 
