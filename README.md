@@ -16,6 +16,4 @@ https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json
 
 参考项目：
 
-（1）https://github.com/gaotianliuyun/gao
-
-（2）https://github.com/qist/tvbox
+（1）https://github.com/qist/tvbox
