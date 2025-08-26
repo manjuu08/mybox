@@ -6,8 +6,10 @@ https://github.com/o0HalfLife0o/TVBoxOSC
 （2）手机版本：
 https://github.com/Tosencen/XMBOX
 
-订阅地址:
+（3）电脑版本：
+https://github.com/kknifer7/FreeBox
 
+订阅地址:
 （1）自用：
 https://raw.githubusercontent.com/manjuu08/mybox/main/0819.json
 
