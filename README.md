@@ -14,12 +14,6 @@ https://github.com/kknifer7/FreeBox
 （1）自用：
 https://raw.githubusercontent.com/manjuu08/mybox/main/0819.json
 
-（2）瑟瑟：
-https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json
-
-（3）日本IPTV：
-https://raw.githubusercontent.com/manjuu08/mybox/main/jp.m3u
-
 参考项目：
 
 （1）https://github.com/qist/tvbox
