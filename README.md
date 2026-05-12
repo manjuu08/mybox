@@ -4,7 +4,7 @@ APP推荐:
 https://github.com/o0HalfLife0o/TVBoxOSC
 
 （2）手机版本：
-https://github.com/Tosencen/XMBOX
+https://t.me/apk_Release
 
 （3）电脑版本：
 https://github.com/kknifer7/FreeBox
