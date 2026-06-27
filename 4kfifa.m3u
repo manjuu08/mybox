@@ -1,9 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/group.ts
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="高码率CCTV5",cctv5
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="CCTV5",cctv5
 http://100.83.200.43:38766/cctv5.m3u8
-#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5+.png" group-title="高码率CCTV5+",cctv5+
+#EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5+.png" group-title="CCTV5+",cctv5+
 http://100.83.200.43:38766/cctv5p.m3u8
 #EXTINF:-1 tvg-name="cctv16-4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="4KUHD-FIFA",cctv16-4k
 http://100.83.200.43:38766/cctv16.m3u8
